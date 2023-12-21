@@ -1,0 +1,14 @@
+cookie:
+  expiry_days: 30
+  key: some_signature_key
+  name: some_cookie_name
+credentials:
+  usernames:
+    abc:
+      email: kaikee_snow@163.com
+      name: "\u5F20\u950B"
+      password: $2b$12$nT5uv20dOrHUug0HywWr5u42VJzN2DejTzcmsPGbwQIVpuoQjU/om
+
+preauthorized:
+  emails:
+  - 111@163.com
